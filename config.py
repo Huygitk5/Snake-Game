@@ -4,7 +4,7 @@
 # --- CÀI ĐẶT CHUNG ---
 TILE_SIZE = 20      # Kích thước (pixel) của mỗi ô vuông trong game
 FPS = 60            # Số khung hình trên giây, quyết định độ mượt của game
-GAME_TITLE = "Nhóm 15: 23110103 _ Đoàn Quốc Huy && 23110124 _ Đoàn Ngọc Mạnh --- Rắn Săn Mồi ---"
+GAME_TITLE = "--- Rắn Săn Mồi ---"
 
 # --- ĐƯỜNG DẪN ---
 MAPS_DIR = "Maps"
